@@ -1,2 +1,5 @@
 # cyoa
-choose your own adventure demo
+Choose your own adventure demo
+
+
+Credit: https://gophercises.com
